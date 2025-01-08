@@ -1,2 +1,1 @@
-# CORS-Practice-Application
-CORS Practice Application
+"# Demo App" 
